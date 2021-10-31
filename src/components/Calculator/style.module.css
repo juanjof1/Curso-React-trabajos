@@ -1,0 +1,9 @@
+.container {
+  background: rgba(3, 43, 36, 0.701);
+  text-align: center;
+  color: fff;
+  padding: 10px 10px;
+  border-radius: 8px;
+  width: fit-content;
+  margin: 20px 0;
+}

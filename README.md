@@ -1,2 +1,2 @@
-# Curso-React-trabajos
+# CursoReact
 Created with CodeSandbox
